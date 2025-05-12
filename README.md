@@ -1,5 +1,5 @@
-React Quiz App
-📌 Overview
+React Quiz App📌
+Overview
 The React Quiz App is an interactive quiz platform designed for users to test their knowledge of React. Users can select their desired difficulty level and take quizzes tailored to their expertise. The project utilizes React, Context API, and useReducer for efficient state management.
 
 🚀 Features
